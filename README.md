@@ -35,6 +35,7 @@ I enjoy building practical applications and continuously improving my technical 
 ### 🌐 Connect with me:
 
 [<img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/ashwini-dukkhi-6658332a6)
+[<img align="left" alt="Twitter" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />](https://twitter.com/ashwini)
 
 <br/>
 
