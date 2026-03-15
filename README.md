@@ -8,10 +8,10 @@
 
 I am Ashwini Dukkhi👩🏼‍💼, 
 
-a Computer Science Engineering student with a strong interest in software development🖥️.
+A Computer Science Engineering student with a strong interest in software development🖥️.
 
 
-I am currently focusing on full stack web development, Java, and data structures & algorithms. 
+I am currently focusing on full stack web development, Java, data structures & algorithms. 
 
 
 I enjoy building practical applications and continuously improving my technical skills.
