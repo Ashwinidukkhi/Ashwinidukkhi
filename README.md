@@ -1,62 +1,106 @@
-## Hello👋 I'm Ashwini Dukkhi
-
-👩🏼‍💼 Student of CSE-AI |💻Aspiring Software Engineer
-
-<h1>
-  About Me💁🏼‍♀️...
-</h1>
-
-I am Ashwini Dukkhi👩🏼‍💼, 
-
-A Computer Science Engineering student with a strong interest in software development🖥️.
-
-
-I am currently focusing on full stack web development, Java, data structures & algorithms. 
-
-
-I enjoy building practical applications and continuously improving my technical skills.
-<h1>🔎Tech Skills</h1>
-
-<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/7792d7d6-2ee6-4af5-ac6b-f3b88546a34b" />
-
-<img width="148" height="190" alt="image" src="https://github.com/user-attachments/assets/9076adb6-9918-4a10-9a70-49452c2ff795" />
-
-<img width="149" height="190" alt="image" src="https://github.com/user-attachments/assets/90f1a138-826f-41ac-b52f-7a40acbd9028" />
-
-<img width="149" height="190" alt="image" src="https://github.com/user-attachments/assets/d660ac0a-c10a-44e1-8e34-f68a5417d4c7" />
-
-<img width="149" height="190" alt="image" src="https://github.com/user-attachments/assets/056e476f-3eac-4682-a6b6-918258c85afa" />
-
-<img width="149" height="190" alt="image" src="https://github.com/user-attachments/assets/c343eabb-dbc8-45b4-ab06-0ff38e2410a2" />
-
-<img width="149" height="190" alt="image" src="https://github.com/user-attachments/assets/4844e36b-6565-4228-95ac-37269ace435c" />
-
-
-<h3 align="left">🤝 Connect with Me</h3>
-
-<p align="left">
-  <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/ashwini-dukkhi-6658332a6" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
-  </a>
-
-  <!-- X (Twitter) -->
-  <a href="https://x.com/AshwiniDuk83619" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="40"/>
-  </a>
+<!-- 🌠 STAR ANIMATION (snake contribution effect) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<!--
-**Ashwinidukkhi/Ashwinidukkhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- 🌌 DARK ANIMATED HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f172a&height=220&section=header&text=Ashwini%20Dukkhi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-Here are some ideas to get you started:
+<!-- ⌨️ TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&width=500&lines=CSE-AI+Student;Aspiring+Software+Engineer;Full+Stack+Developer;Java+%7C+DSA+Enthusiast" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩🏼‍💼 About Me
+
+💻 I am **Ashwini Dukkhi**, a Computer Science Engineering (CSE-AI) student.  
+🚀 Passionate about **Software Development & Problem Solving**.  
+🌱 Currently learning **Full Stack Web Development, Java, DSA**.  
+⚡ I enjoy building real-world applications and improving my coding skills.
+
+---
+
+## 🛠️ Tech Skills
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp" width="50"/>
+<img src="https://skillicons.dev/icons?i=html" width="50"/>
+<img src="https://skillicons.dev/icons?i=css" width="50"/>
+<img src="https://skillicons.dev/icons?i=js" width="50"/>
+<img src="https://skillicons.dev/icons?i=java" width="50"/>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshwiniDukkhi&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwiniDukkhi&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AshwiniDukkhi&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/your-username/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/users/your-username">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/your-username">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/ashwini-dukkhi-6658332a6">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<a href="https://x.com/AshwiniDuk83619">
+  <img src="https://skillicons.dev/icons?i=twitter" width="45"/>
+</a>
+
+</p>
+
+---
+
+## 🚀 Goals
+
+- Build strong Full Stack Projects  
+- Master Java & DSA  
+- Contribute to Open Source  
+- Become a skilled Software Engineer  
+
+---
+
+<p align="center">⭐ Thanks for visiting my GitHub profile!</p>
