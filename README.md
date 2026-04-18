@@ -32,12 +32,19 @@ I enjoy building practical applications and continuously improving my technical 
 <img width="149" height="190" alt="image" src="https://github.com/user-attachments/assets/4844e36b-6565-4228-95ac-37269ace435c" />
 
 
-### 🌐 Connect with me:
+<h3 align="left">🤝 Connect with Me</h3>
 
-[<img align="left" alt="LinkedIn" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/ashwini-dukkhi-6658332a6)
-[<img align="left" alt="Twitter" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />](https://twitter.com/ashwini)
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/ashwini-dukkhi-6658332a6" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+  </a>
 
-<br/>
+  <!-- X (Twitter) -->
+  <a href="https://x.com/AshwiniDuk83619" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" height="40"/>
+  </a>
+</p>
 
 <!--
 **Ashwinidukkhi/Ashwinidukkhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
